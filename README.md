@@ -14,6 +14,5 @@
 
 frontend: nextjs , backend: django-graphene
 
-<a  target="_blank" href='https://tndev-art.tn'> https://tndev-art.tn</a><br/>
+<a  target="_blank" href='https://stackblitz0.vercel.app/'> https://stackblitz0.vercel.app/</a><br/>
 
-<img src="https://i.ibb.co/xzk4HFF/back.png" height='250' width='auto' alt="web-dev Ch" border="0"><br/>
